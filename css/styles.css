@@ -1,0 +1,148 @@
+a
+{
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+}
+
+a:hover
+{
+    color: #778899;
+}
+
+article
+{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1em;
+}
+
+body
+{
+    background-color: black; 
+    color: aqua; 
+    font-family: 'Ysabeau Infant';  
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;  
+}    
+
+h1
+{
+    font-size: 5em;
+    padding: 3%;
+    font-weight: bold;
+}
+
+h3
+{
+    color:white;
+    font-size: 1em;
+}
+
+img
+{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+ul#index {
+    padding-left: 0;
+    list-style-type: none;
+}
+#message {
+    height: 10em;
+    font-family: 'Ysabeau Infant';
+}
+
+
+.admin a:hover
+{
+    color: aqua;
+}
+
+.btn2
+{
+    color: aqua;
+    background-color:#778899;
+    margin-top: 2em;
+    margin-bottom: 5em;   
+}
+
+.btn2 a
+{
+    color: white;
+}
+.btnbtn
+{
+    margin-bottom: 5em;
+}
+
+.btnbtn a:hover
+{
+    opacity: 0.8;
+}
+
+.content
+{
+    color: white;
+    text-align: justify;
+    padding-bottom: 4em;
+}
+
+.form-check
+{
+   margin-left: 45%;
+   margin-right: 45%;
+}
+
+.form-group
+{
+   margin-left: 30%;
+   margin-right: 30%;
+   padding-bottom: 1.5em;
+}
+
+
+.link
+{
+    color: white;
+    text-decoration: none;  
+}
+
+.nav
+{
+    padding-bottom: 0.5em;
+}
+
+.nav a
+{
+    color:white;
+}
+
+.nav a:hover
+{
+    color: black;
+}
+
+.pagination
+{
+    margin-left: 45%;
+    margin-right: 50%; 
+}
+
+
+.title
+{
+    font-weight: bold;
+    color: white;
+    margin-bottom: 1em;
+}
+
+.title a:hover
+{
+    color:	#778899;
+}
+
+
+
